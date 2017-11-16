@@ -5,7 +5,7 @@ import sched, time
 TCP_IP = '10.139.65.151'
 TCP_PORT = 44 #45? 80?
 MESSAGE = ""
-SECRETCODE = '^1234'
+SECRET_CODE = '^1234'
 
 def Data_Pull(sc):
     global MESSAGE
